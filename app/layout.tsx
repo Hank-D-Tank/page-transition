@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Syne, DM_Sans } from "next/font/google";
 import "./globals.css";
-import Nav from "./src/components/Nav";
-import TransitionProvider from "./src/components/TransitionProvider";
+import Nav from "../src/components/Nav";
+import TransitionProvider from "../src/components/TransitionProvider";
 
 const syne = Syne({
   variable: "--font-display",

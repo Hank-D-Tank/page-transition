@@ -1,4 +1,4 @@
-import Template, { Heading, SubHeading } from "./src/components/Template";
+import Template, { Heading, SubHeading } from "../src/components/Template";
 
 const page = () => {
   return (
